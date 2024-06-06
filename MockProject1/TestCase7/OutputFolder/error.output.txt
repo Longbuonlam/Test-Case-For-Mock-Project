@@ -1,0 +1,6 @@
+Jun 06, 2024 4:09:17 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:53) 
+[File: ./\InputFolder\products.new.csv]: productId is empty in record: [, Product 1, 30000, 15]
+Jun 06, 2024 4:09:18 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:59) 
+[File: ./\InputFolder\products.new.csv]: productName is empty in record: [P026, , 85000, 60]

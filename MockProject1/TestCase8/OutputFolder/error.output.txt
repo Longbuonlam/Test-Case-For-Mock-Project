@@ -1,0 +1,6 @@
+Jun 06, 2024 4:11:05 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:91) 
+[File: ./\InputFolder\products.new.csv]:  Stock available in record [P027, Product 7, 30000, -15] must be greater than or equal to 0
+Jun 06, 2024 4:11:05 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:86) 
+[File: ./\InputFolder\products.new.csv]:  Price in record [P026, Product 6, -85000, 60] must be greater than or equal to 0

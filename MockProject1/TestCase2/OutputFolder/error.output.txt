@@ -1,0 +1,24 @@
+Jun 05, 2024 1:16:14 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:53) 
+[File: ./\InputFolder\products.origin.csv]: productId is empty in record: [, Sản phẩm E, 120000, 40]
+Jun 05, 2024 1:16:14 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:59) 
+[File: ./\InputFolder\products.origin.csv]: productName is empty in record: [P006, , 150000, 5]
+Jun 05, 2024 1:16:14 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:168) 
+[File: ./\InputFolder\customers.origin.csv]: customerId is empty in record: [, Phạm Thị D, phamd@ẽample.com, 0169876543]
+Jun 05, 2024 1:16:14 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:173) 
+[File: ./\InputFolder\customers.origin.csv]: customerName is empty in record: [C005, , nguyene@example.com, 0987654321]
+Jun 05, 2024 1:16:14 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:53) 
+[File: ./\InputFolder\products.origin.csv]: productId is empty in record: [, Sản phẩm E, 120000, 40]
+Jun 05, 2024 1:16:14 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:59) 
+[File: ./\InputFolder\products.origin.csv]: productName is empty in record: [P006, , 150000, 5]
+Jun 05, 2024 1:16:14 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:298) 
+[File: ./\InputFolder\orders.origin.csv]: Order ID is empty in record [, C004, P002:4, 2023-11-23T18:00:00+07:00]
+Jun 05, 2024 1:16:14 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:311) 
+[File: ./\InputFolder\orders.origin.csv]:  Customer ID is empty in record [OD005, , P003:1, 2023-11-24T12:30:00+07:00]

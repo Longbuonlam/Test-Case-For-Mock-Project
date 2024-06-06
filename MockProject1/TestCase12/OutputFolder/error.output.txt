@@ -1,0 +1,6 @@
+Jun 06, 2024 4:25:41 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.service.impls.ProductService (ProductService.java:97) 
+[File: ./\InputFolder\products.delete.csv]: Product ID: P035 does not exist in product file
+Jun 06, 2024 4:25:41 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.service.impls.ProductService (ProductService.java:97) 
+[File: ./\InputFolder\products.delete.csv]: Product ID: P101 does not exist in product file

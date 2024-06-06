@@ -1,0 +1,9 @@
+Jun 06, 2024 4:30:41 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.service.impls.CustomerService (CustomerService.java:211) 
+[File: ./\InputFolder\customers.delete.csv]: Phone number: 0169876543  does not exist in customer file 
+Jun 06, 2024 4:30:41 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.service.impls.CustomerService (CustomerService.java:211) 
+[File: ./\InputFolder\customers.delete.csv]: Phone number: +84888888888  does not exist in customer file 
+Jun 06, 2024 4:30:41 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.service.impls.CustomerService (CustomerService.java:211) 
+[File: ./\InputFolder\customers.delete.csv]: Phone number: +84111222333  does not exist in customer file 

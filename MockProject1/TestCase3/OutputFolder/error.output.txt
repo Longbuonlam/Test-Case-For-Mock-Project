@@ -1,0 +1,12 @@
+Jun 06, 2024 12:23:59 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:77) 
+[File: ./\InputFolder\products.origin.csv]:  Duplicate product ID in record: [P001, Sản phẩm B, 50000, 50]
+Jun 06, 2024 12:24:00 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:188) 
+[File: ./\InputFolder\customers.origin.csv]:  Duplicate Id in record: [C001, Trần Thị K, trank@example.com, 0987654386]
+Jun 06, 2024 12:24:00 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:77) 
+[File: ./\InputFolder\products.origin.csv]:  Duplicate product ID in record: [P001, Sản phẩm B, 50000, 50]
+Jun 06, 2024 12:24:00 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:294) 
+[File: ./\InputFolder\orders.origin.csv]:  Duplicate order ID: OD001in record[OD001, C004, P004:3, 2023-11-21T14:45:00+07:00]

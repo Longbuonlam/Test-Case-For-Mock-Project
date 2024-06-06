@@ -1,0 +1,6 @@
+Jun 06, 2024 5:27:21 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.service.impls.OrderService (OrderService.java:257) 
+[File: ./\InputFolder\orders.delete.csv]: Order ID: OD010 does not exist in order file
+Jun 06, 2024 5:27:21 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.service.impls.OrderService (OrderService.java:257) 
+[File: ./\InputFolder\orders.delete.csv]: Order ID: OD030 does not exist in order file

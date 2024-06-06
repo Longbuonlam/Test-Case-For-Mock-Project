@@ -1,0 +1,6 @@
+Jun 06, 2024 4:41:00 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:203) 
+[File: ./\InputFolder\customers.new.csv]:  Invalid email in record: [C018, Hoàng Văn U, invalid-email, 0444444444]
+Jun 06, 2024 4:41:00 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:208) 
+[File: ./\InputFolder\customers.new.csv]:  Invalid Phone number in record: [C019, Đỗ Thị V, dov@example.com, invalid-phone]

@@ -1,0 +1,24 @@
+Jun 06, 2024 1:42:37 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:86) 
+[File: ./\InputFolder\products.origin.csv]:  Price in record [P007, Sản phẩm G, -10000, 10] must be greater than or equal to 0
+Jun 06, 2024 1:42:37 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:91) 
+[File: ./\InputFolder\products.origin.csv]:  Stock available in record [P008, Sản phẩm H, 80000, -5] must be greater than or equal to 0
+Jun 06, 2024 1:42:37 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:203) 
+[File: ./\InputFolder\customers.origin.csv]:  Invalid email in record: [C006, Hoàng Văn F, invalid-email, +84123456789]
+Jun 06, 2024 1:42:37 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:208) 
+[File: ./\InputFolder\customers.origin.csv]:  Invalid Phone number in record: [C007, Đỗ Thị G, dog@example.net, invalid-phone]
+Jun 06, 2024 1:42:37 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:86) 
+[File: ./\InputFolder\products.origin.csv]:  Price in record [P007, Sản phẩm G, -10000, 10] must be greater than or equal to 0
+Jun 06, 2024 1:42:37 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:91) 
+[File: ./\InputFolder\products.origin.csv]:  Stock available in record [P008, Sản phẩm H, 80000, -5] must be greater than or equal to 0
+Jun 06, 2024 1:42:37 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:315) 
+[File: ./\InputFolder\orders.origin.csv]:  Customer ID: C005 does not exist in customer file - record: [OD006, C005, P001:-2;P005:1, 2023-11-25T16:15:00+07:00]
+Jun 06, 2024 1:42:37 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.utils.CSVLoader (CSVLoader.java:315) 
+[File: ./\InputFolder\orders.origin.csv]:  Customer ID: C014 does not exist in customer file - record: [OD014, C014, P005:3, 2023-12-04T25:00:00+07:00]

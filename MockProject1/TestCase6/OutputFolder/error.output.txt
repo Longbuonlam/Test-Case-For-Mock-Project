@@ -1,0 +1,3 @@
+Jun 06, 2024 4:05:58 PM org.example.exception.ErrorLogger logWarning
+WARNING: org.example.service.impls.ProductService (ProductService.java:107) 
+[File: ./\InputFolder\products.new.csv]: Duplicate product ID: P001 in product: [P001 , Product 1 , 30000 , 15]
